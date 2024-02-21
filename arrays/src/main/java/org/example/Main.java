@@ -21,6 +21,14 @@ public class Main {
 //            System.out.println(name);
 //        }
 
+//        int[] arrayInt = {1,2};
+//        int i;
+//
+//        for(i=0;i<=arrayInt.length;i++) {
+//
+//            System.out.println(arrayInt[i]);
+//        }
+
     }
 
     //call by reference
